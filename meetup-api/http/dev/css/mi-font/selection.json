@@ -1,0 +1,166 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M704 512h-64v128h64v-128zM576 512h-64v128h64v-128zM704 320h-64v128h64v-128zM832 512h-64v128h64v-128zM576 704h-64v128h64v-128zM768 0h-64v128h64v-128zM256 0h-64v128h64v-128zM832 320h-64v128h64v-128zM576 320h-64v128h64v-128zM320 704h-64v128h64v-128zM192 512h-64v128h64v-128zM320 512h-64v128h64v-128zM832 64v128h-192v-128h-320v128h-192v-128h-128v896h960v-896h-128zM896 896h-832v-640h832v640zM192 704h-64v128h64v-128zM448 320h-64v128h64v-128zM448 704h-64v128h64v-128zM320 320h-64v128h64v-128zM448 512h-64v128h64v-128zM704 704h-64v128h64v-128z"
+				],
+				"tags": [
+					"calendar"
+				],
+				"grid": 0
+			},
+			"properties": {
+				"order": 265,
+				"id": 157,
+				"prevSize": 16,
+				"code": 58899,
+				"name": "calendar",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 19
+		},
+		{
+			"icon": {
+				"width": 896,
+				"paths": [
+					"M608 192l-96 96 224 224-224 224 96 96 288-320-288-320zM288 192l-288 320 288 320 96-96-224-224 224-224-96-96z"
+				],
+				"tags": [
+					"code"
+				],
+				"grid": 0
+			},
+			"properties": {
+				"order": 259,
+				"id": 144,
+				"prevSize": 16,
+				"code": 58912,
+				"name": "code",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 32
+		},
+		{
+			"icon": {
+				"width": 768,
+				"paths": [
+					"M0 576h128v-128h-128v128zM0 320h128v-128h-128v128zM0 832h128v-128h-128v128zM256 576h512v-128h-512v128zM256 320h512v-128h-512v128zM256 832h512v-128h-512v128z"
+				],
+				"tags": [
+					"list-unordered"
+				],
+				"grid": 0
+			},
+			"properties": {
+				"order": 266,
+				"id": 78,
+				"prevSize": 16,
+				"code": 58978,
+				"name": "list-unordered",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 98
+		},
+		{
+			"icon": {
+				"width": 640,
+				"paths": [
+					"M320 0c-177 0-320 143-320 320s160 416 320 704c160-288 320-527 320-704s-143-320-320-320zM320 448c-71 0-128-57-128-128s57-128 128-128 128 57 128 128-57 128-128 128z"
+				],
+				"tags": [
+					"location"
+				],
+				"grid": 0
+			},
+			"properties": {
+				"order": 261,
+				"id": 77,
+				"prevSize": 16,
+				"code": 58979,
+				"name": "location",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 99
+		},
+		{
+			"icon": {
+				"width": 832,
+				"paths": [
+					"M704 192h-704v256h704l128-128-128-128zM448 384h-128v-128h128v128zM448 0h-128v128h128v-128zM320 1024h128v-512h-128v512z"
+				],
+				"tags": [
+					"milestone"
+				],
+				"grid": 0
+			},
+			"properties": {
+				"order": 263,
+				"id": 66,
+				"prevSize": 16,
+				"code": 58989,
+				"name": "milestone",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 109
+		},
+		{
+			"icon": {
+				"width": 768,
+				"paths": [
+					"M320 0c-32 0-64 32-64 64s0 64 0 64h-64l-192 192v128h192l64 384-128 64v64h512v-64l-128-64 64-384h192v-128l-192-192h-256v-64s14 0 32 0 32-17 32-32-16-32-32-32 0 0-32 0zM320 832l-53-320h118l-1 320h-64zM96 320l128-128h32v64h64v-64h224l128 128h-576z"
+				],
+				"tags": [
+					"podium"
+				],
+				"grid": 0
+			},
+			"properties": {
+				"order": 260,
+				"id": 44,
+				"prevSize": 16,
+				"code": 59011,
+				"name": "podium",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 131
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "meetup"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"fontPref": {
+			"prefix": "mi-",
+			"metadata": {
+				"fontFamily": "meetup",
+				"majorVersion": 1,
+				"minorVersion": 0
+			},
+			"metrics": {
+				"emSize": 512,
+				"baseline": 6.25,
+				"whitespace": 50
+			}
+		},
+		"imagePref": {
+			"color": 0,
+			"height": 32,
+			"columns": 16,
+			"margin": 16
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"search": ""
+	}
+}

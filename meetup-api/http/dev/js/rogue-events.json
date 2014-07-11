@@ -1,0 +1,82 @@
+{"results": [
+  {
+    "name": "Sample Event",
+    "venue": {
+      "name": "Sample Name",
+      "address_1": "Sample Address"
+    },
+    "group": {
+      "name": "Expired, do not delete!",
+      "photo": "/path/to/image"
+    },
+    "time": "1980/06/25 07:00:00 pm",
+    "description": "<p>Use this EXPIRED EVENT as a template.</p>",
+    "event_url": "http://localhost:4444/",
+    "event_button": "",
+    "event_type": "corporate"
+  },
+  {
+    "name": "Midwest Dreamin'",
+    "venue": {
+      "name": "Navy Pier, Chicago , IL",
+      "address_1": "600 E Grand Ave, Chicago, IL 60611"
+    },
+    "group": {
+      "name": "Salesforce",
+      "photo": "/img/ph_fox.jpg"
+    },
+    "time": "2014/07/10",
+    "description": "<p>Use this EXPIRED EVENT as a template.</p>",
+    "event_url": "http://midwestdreamin.com/",
+    "event_button": "Register Here",
+    "event_type": "corporate"
+  },
+  {
+    "name": "ClueCon",
+    "venue": {
+      "name": "InterContinental Chicago, Chicago, IL",
+      "address_1": "505 N Michigan Ave, Chicago, IL 60611"
+    },
+    "group": {
+      "name": "ClueCon",
+      "photo": "/img/clue-con.png"
+    },
+    "time": "2014/08/04 - 2014/08/07",
+    "description": "<p>Use this EXPIRED EVENT as a template.</p>",
+    "event_url": "https://www.cluecon.com/",
+    "event_button": "Register Here",
+    "event_type": "corporate"
+  },
+  {
+    "name": "Midwest JS",
+    "venue": {
+      "name": "Univ. of St. Thomas, Minneapolis, MN",
+      "address_1": "2115 Summit Ave, St Paul, MN 55105"
+    },
+    "group": {
+      "name": "Midwest JS",
+      "photo": "/img/midwest-js.png"
+    },
+    "time": "2014/08/14 - 2014/08/15",
+    "description": "<p>Use this EXPIRED EVENT as a template.</p>",
+    "event_url": "http://midwestjs.com/",
+    "event_button": "Register Here",
+    "event_type": "corporate"
+  },
+  {
+    "name": "CRM Evolution",
+    "venue": {
+      "name": "Marriott Marquis, New York City, NY",
+      "address_1": "1535 Broadway, New York, NY 10036"
+    },
+    "group": {
+      "name": "CRM Magazine",
+      "photo": "/img/crm-evo.png"
+    },
+    "time": "2014/08/18 - 2014/08/20",
+    "description": "<p>Use this EXPIRED EVENT as a template.</p>",
+    "event_url": "http://www.destinationcrm.com/conferences/2014/",
+    "event_button": "Register Here",
+    "event_type": "corporate"
+  }
+]}
