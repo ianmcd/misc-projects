@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Untitled</title>
+		<meta charset="utf-8">
+		<meta name="author" content="anonymous">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="untitled">
+
+		<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+		<link rel="stylesheet" type="text/css" href="/css/system.css" />
+
+	</head>
+	<body>
+		<div class="wrapper">
+			<h3>Choose File to Download</h3>
+			<div class="file-controller">
+				<button data-asset='call-recording.pdf'>Call Recording</button>
+				<button data-asset='cloud-phone-system.pdf'>Cloud Phone System</button>
+				<button data-asset='contact-center-suite.pdf'>Contact Center Suite</button>
+			</div>
+		</div>
+
+		<div class="modal-win">
+			<form id="download-form" action="this-aint-no-form-url" method="post">
+				<input type="text" name="first-name" placeholder="First Name" required />
+				<input type="text" name="last-name" placeholder="Last Name" required />
+				<input type="email" name="email" placeholder="Email Address" required />
+				<input type="text" name="company" placeholder="Company" required />
+				<input type="text" name="phone" placeholder="Phone #" required />
+				<input type="text" name="country" placeholder="Country" required />
+				<input type="text" name="num-users" placeholder="# Users" required />
+				<input type="submit" value="Submit" />
+			</form>
+			<span class="close">[ close ]</span>
+		</div>
+
+		<div class="wrapper">
+			<br />
+			<button id="delete-cookie">Delete Cookie</button>
+		</div>
+
+
+		<script src="js/production.min.js"></script>
+	</body>
+</html>

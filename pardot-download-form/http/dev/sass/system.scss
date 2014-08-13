@@ -1,0 +1,24 @@
+@import 	'compass';
+@import 	'susy';		//comment out to exclude susy(will also need to edit config.rb) --> http://susydocs.oddbird.net/en/latest/ for more info 
+
+
+//	core/base level stuff -- most of your work is done here
+
+@import		'core/normalize';	// standard normalize reset
+@import		'core/settings';	// global variables & settings
+@import		'core/helpers';		// extends, functions, mixins
+@import		'core/base';		// base-level tags
+@import		'core/content';		// base-level typography
+@import		'core/layout';		// base-level layout (margin, padding, sizing)
+
+
+
+// modules -- buttons, nav, tooltips, etc. 
+
+//@import	'modules/nav';
+
+
+
+// theme -- page/theme or just specific styles
+
+//@import	'theme/articles';
